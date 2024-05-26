@@ -31,7 +31,7 @@ Os usuários devem ser capazes de:
 ### Links
 
 - URL da Solução: [GitHub](https://github.com/raphaelsiqueiira/blog-preview-card-main)
-- URL do Site Ao Vivo: [GitHub Pages]()
+- URL do Site Ao Vivo: [GitHub Pages](https://raphaelsiqueiira.github.io/blog-preview-card-main/)
 
 ## Meu Processo
 
