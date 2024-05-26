@@ -1,110 +1,67 @@
-# Frontend Mentor - Blog preview card solution
+# Frontend Mentor - Solução do Cartão de Visualização de Blog
 
-This is a solution to the [Blog preview card challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/blog-preview-card-ckPaj01IcS). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+Esta é uma solução para o [desafio do Cartão de Visualização de Blog no Frontend Mentor](https://www.frontendmentor.io/challenges/blog-preview-card-ckPaj01IcS). Os desafios do Frontend Mentor ajudam você a melhorar suas habilidades de codificação construindo projetos realistas.
 
-## Table of contents
+## Sumário
 
-- [Overview](#overview)
-  - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
+- [Visão Geral](#visão-geral)
+  - [O Desafio](#o-desafio)
+  - [Captura de Tela](#captura-de-tela)
   - [Links](#links)
-- [My process](#my-process)
-  - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
-- [Author](#author)
-- [Acknowledgments](#acknowledgments)
+- [Meu Processo](#meu-processo)
+  - [Construído com](#construído-com)
+  - [O que Aprendi](#o-que-aprendi)
+  - [Desenvolvimento Futuro](#desenvolvimento-futuro)
+  - [Recursos Úteis](#recursos-úteis)
+- [Autor](#autor)
+- [Agradecimentos](#agradecimentos)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
+## Visão Geral
 
-## Overview
+### O Desafio
 
-### The challenge
+Os usuários devem ser capazes de:
 
-Users should be able to:
+- Ver estados de hover e foco para todos os elementos interativos na página.
 
-- See hover and focus states for all interactive elements on the page
+### Captura de Tela
 
-### Screenshot
-
-![](./screenshot.jpg)
-
-Add a screenshot of your solution. The easiest way to do this is to use Firefox to view your project, right-click the page and select "Take a Screenshot". You can choose either a full-height screenshot or a cropped one based on how long the page is. If it's very long, it might be best to crop it.
-
-Alternatively, you can use a tool like [FireShot](https://getfireshot.com/) to take the screenshot. FireShot has a free option, so you don't need to purchase it. 
-
-Then crop/optimize/edit your image however you like, add it to your project, and update the file path in the image above.
-
-**Note: Delete this note and the paragraphs above when you add your screenshot. If you prefer not to add a screenshot, feel free to remove this entire section.**
+![Captura de Tela](assets/images/screenshot.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- URL da Solução: [GitHub](https://github.com/raphaelsiqueiira/blog-preview-card-main)
+- URL do Site Ao Vivo: [GitHub Pages]()
 
-## My process
+## Meu Processo
 
-### Built with
+### Construído com
 
-- Semantic HTML5 markup
-- CSS custom properties
+- Marcação HTML5 semântica
+- Propriedades personalizadas de CSS
 - Flexbox
 - CSS Grid
-- Mobile-first workflow
-- [React](https://reactjs.org/) - JS library
-- [Next.js](https://nextjs.org/) - React framework
-- [Styled Components](https://styled-components.com/) - For styles
 
-**Note: These are just examples. Delete this note and replace the list above with your own choices**
+### O que Aprendi
 
-### What I learned
+Enquanto trabalhava neste projeto, reforcei meu conhecimento em técnicas de layout CSS, incluindo flexbox e grid. Além disso, melhorei minha compreensão dos princípios de design responsivo e dos estados de hover e foco em CSS.
 
-Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
+### Desenvolvimento Futuro
 
-To see how you can add code snippets, see below:
+Em projetos futuros, pretendo refinar ainda mais minhas habilidades em CSS e continuar aprendendo JavaScript para adicionar interatividade e funcionalidade aos meus projetos.
 
-```html
-<h1>Some HTML code I'm proud of</h1>
-```
-```css
-.proud-of-this-css {
-  color: papayawhip;
-}
-```
-```js
-const proudOfThisFunc = () => {
-  console.log('🎉')
-}
-```
+### Recursos Úteis
 
-If you want more help with writing markdown, we'd recommend checking out [The Markdown Guide](https://www.markdownguide.org/) to learn more.
+- [MDN Web Docs](https://developer.mozilla.org/) - Documentação abrangente de desenvolvimento web.
+- [CSS-Tricks](https://css-tricks.com/) - Artigos e guias úteis sobre CSS.
 
-**Note: Delete this note and the content within this section and replace with your own learnings.**
+## Autor
 
-### Continued development
 
-Use this section to outline areas that you want to continue focusing on in future projects. These could be concepts you're still not completely comfortable with or techniques you found useful that you want to refine and perfect.
+- GitHub - [raphaelsiqueiira](https://github.com/raphaelsiqueiira)
+- Frontend Mentor - [@raphaelsiqueiira](https://www.frontendmentor.io/profile/raphaelsiqueiira)
+- X (Twitter) - [@Raphael_4z](https://x.com/Raphael_4z)
 
-**Note: Delete this note and the content within this section and replace with your own plans for continued development.**
+## Agradecimentos
 
-### Useful resources
-
-- [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
-- [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
-
-**Note: Delete this note and replace the list above with resources that helped you during the challenge. These could come in handy for anyone viewing your solution or for yourself when you look back on this project in the future.**
-
-## Author
-
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
-
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
-
-## Acknowledgments
-
-This is where you can give a hat tip to anyone who helped you out on this project. Perhaps you worked in a team or got some inspiration from someone else's solution. This is the perfect place to give them some credit.
-
-**Note: Delete this note and edit this section's content as necessary. If you completed this challenge by yourself, feel free to delete this section entirely.**
+Gostaria de agradecer ao Frontend Mentor por fornecer este desafio e à comunidade pelo suporte e feedback.
