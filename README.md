@@ -30,7 +30,7 @@ Os usuários devem ser capazes de:
 
 ### Links
 
-- URL da Solução: [GitHub](https://github.com/raphaelsiqueiira/blog-preview-card-main)
+- URL da Solução: [Frontend Mentor]([https://github.com/raphaelsiqueiira/blog-preview-card-main](https://www.frontendmentor.io/solutions/carto-de-visualizao-do-blog-zIXtAQjTFz))
 - URL do Site Ao Vivo: [GitHub Pages](https://raphaelsiqueiira.github.io/blog-preview-card-main/)
 
 ## Meu Processo
